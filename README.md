@@ -1,1 +1,1 @@
-# Mealify
+Immersed in the culinary world, I embarked on a creative journey to design a responsive restaurant webpage using HTML and CSS. This project encompasses an enticing blend of aesthetics and functionality, catering to both desktop and mobile users.
